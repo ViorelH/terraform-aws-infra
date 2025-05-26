@@ -17,5 +17,4 @@ Provision an EC2 instance and an S3 bucket on AWS using Terraform.
 
 1. Configure AWS credentials:
 
-   ```bash
    aws configure
